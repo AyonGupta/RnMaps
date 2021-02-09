@@ -1,0 +1,6 @@
+module Pods_RnMaps_RnMapsTests {
+  umbrella header "Pods-RnMaps-RnMapsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
